@@ -5,5 +5,5 @@
 </div>
 
 # This is for a youtube tut named: How to make a blender cloth animation for gorilla tag
-# The url is: not here yet
+# The url is: https://youtu.be/1IED7Hv-6NQ?si=Avj9R5SO0Gd02kh0
 # The gorilla ik rig is: https://github.com/NachoEngine/Gorilla_IK_Rig
